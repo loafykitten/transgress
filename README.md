@@ -61,7 +61,7 @@ If this is a brand new project, make sure to create a package.json first with th
 Install using the `bun install` command:
 
 ```bash
-$ bun install @nullgato/transgress
+$ bun install @loafykitten/transgress
 ```
 
 Run using the `bun <script>` command:
@@ -72,16 +72,14 @@ $ bun index.ts
 
 ## Features
 
--   An alright routing system
--   Probably okay performance
--   A middleware system
--   Support for websockets (not really a flex, I'm running out of yays)
--   Support for HTML pages and {{variable}} within them
--   A template for websocket packets via `abstract class BasePacket`
--   Uhhhhh
+- An alright routing system
+- Probably okay performance
+- A middleware system
+- Support for websockets (not really a flex, I'm running out of yays)
+- Support for HTML pages and {{variable}} within them
+- A template for websocket packets via `abstract class BasePacket`
+- Uhhhhh
 
 ## Philosophy
 
-"It be what it be, and it do what it do." - me
-
-_The project is a serious one, but ultimately this README is a parody of express.js because I'm too tired right now to think of something better_
+"Give the dev what they need, then get out of the way"

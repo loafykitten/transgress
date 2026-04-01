@@ -1,14 +1,14 @@
 {
-    "name": "@nullgato/transgress",
+    "name": "@loafykitten/transgress",
     "description": "Overcomplicated, very opinionated, maximalist web framework",
-    "version": "0.1.1",
-    "author": "nullgato (Ember) <nullgato@bratcats.gay>",
+    "version": "0.1.2",
+    "author": "loafykitten (Ember) <hello@loafykitten.cafe>",
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/nullgato/transgress.git"
+        "url": "git+https://github.com/loafykitten/transgress.git"
     },
-    "homepage": "https://github.com/nullgato/transgress",
+    "homepage": "https://github.com/loafykitten/transgress",
     "keywords": [
         "bun",
         "framework",
